@@ -103,6 +103,12 @@ p{
 .sec-padding{
     padding-right: 40px;
 }
+li{
+    color: royalblue;
+}
+ol{
+    margin-bottom: 20px;
+}
 footer{
     background-color: black;
     padding-top: 20px;
@@ -110,7 +116,8 @@ footer{
 }
 h4{
     font-family: 'Dancing Script', cursive;
-    font-size: 30px;
+    font-size: 32px;
+    font-weight: 700;
     font-style: italic;
     color: white;
     text-align: center;
