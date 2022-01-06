@@ -14,7 +14,7 @@ section{
     color: orange;
 }
 .heading-border{
-    border-left: 5px solid red;
+    border-left: 5px solid tomato;
     padding-left: 20px;
 }
 .flex-container{
@@ -93,7 +93,7 @@ p{
 }
 .third-section{
     width: 60%;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 .third-heading{
     font-size: 35px;
