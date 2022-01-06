@@ -103,3 +103,26 @@ p{
 .sec-padding{
     padding-right: 40px;
 }
+footer{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h4{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+.footer-heading{
+    color: lightcoral;
+}
+footer p{
+    color: rgb(102, 98, 98);
+    text-align: center;
+    margin: 0px;
+}
+.footer-text{
+    color: rgb(125, 125, 184);
+}
