@@ -3,7 +3,7 @@ body{
     margin: 0px;
 }
 section{
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 .section-heading{
     font-family: 'Playfair Display', serif;
@@ -11,7 +11,7 @@ section{
     margin: 5px;
 }
 .heading-color{
-    color: #F59C60;
+    color: orange;
 }
 .heading-border{
     border-left: 5px solid red;
@@ -35,7 +35,7 @@ section{
     padding-left: 50px;
 }
 .half-width img{
-    width: 60%;
+    width: 70%;
     padding-left: 50px;
     padding-right: 100px;
 }
@@ -45,7 +45,7 @@ section{
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 200;
-    padding: 10px 40px;
+    padding: 10px 30px;
     border-radius: 5px;
     
 }
@@ -54,6 +54,7 @@ p{
 }
 .flex-column{
     display: flex;
+    margin-top: 60px;
     margin-left: 160px;
     margin-right: 160px;
 }
@@ -83,4 +84,22 @@ p{
 }
 .color-part{
     color: orange;
+}
+.third-sec{
+    width: 40%;
+}
+.third-sec img{
+    width: 80%;
+}
+.third-section{
+    width: 60%;
+    padding-top: 10px;
+}
+.third-heading{
+    font-size: 35px;
+    font-weight: 700;
+    margin: 5px;
+}
+.sec-padding{
+    padding-right: 40px;
 }
